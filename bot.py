@@ -930,5 +930,4 @@ _ _           ✦ Lilac Moon Server 🌌✨ _ _"""
 
 
     
-    
-bot.run("MTQ3MDczMTc1MjAxMTIwMjU3MA.Gxxf89.jcQjh5FKKyiJmuEAgkB4ihpkgaDBV8pX2ql9Sg")
+    bot.run(os.getenv("MTQ3MDczMTc1MjAxMTIwMjU3MA.Gxxf89.jcQjh5FKKyiJmuEAgkB4ihpkgaDBV8pX2ql9Sg"))
